@@ -1,0 +1,2 @@
+telegram.exe filter=lfs diff=lfs merge=lfs -text
+*telegram.exe filter=lfs diff=lfs merge=lfs -text
